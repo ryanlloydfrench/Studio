@@ -1,5 +1,5 @@
-## Gulp Starter Kit
-Super simple starter kit for building a static site with Gulp.
+## Studio
+Studio Website
 
 ### Setup
 1. Install Node
